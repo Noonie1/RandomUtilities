@@ -1,5 +1,4 @@
-```lua
-```lua 
+
 local Plr = game.Players.LocalPlayer
 local ReSt = game.ReplicatedStorage
 local events = require(game.ReplicatedStorage.ClientModules.Module_Events)
@@ -48,5 +47,4 @@ ScarySound:Destroy()
 Shadow:Destroy()
 
 end)
-```
-```
+
