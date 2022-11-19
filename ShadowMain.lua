@@ -24,8 +24,6 @@ end
 local Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))()
 local CustomShop = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Shop%20Items/Source.lua"))()
 
---https://github.com/Noonie1/RandomUtilities/blob/ShadowScript/Shadow.mp3?raw=true
--- Create your tool here
 
 
 ReSt.GameData.LatestRoom.Changed:Connect(function()
